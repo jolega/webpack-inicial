@@ -17,5 +17,5 @@ Webpack - mini	https://webpack.js.org/plugins/mini-css-extract-plugin/
 
 # ejecucion 
 
-    "build": "webpack --config webpack.config.js",
-    "start": "webpack serve --config webpack.config.js --open --port=8080"
+    "build": "webpack --config webpack.config.js", npm run build 
+    "start": "webpack serve --config webpack.config.js --open --port=8080"  npm run start  or npm start

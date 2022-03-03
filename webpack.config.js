@@ -44,7 +44,7 @@ module.exports ={
         }),
 
         new MiniCssExtract({
-            filename: 'nuevo-estilo.css',
+            filename: '[name].[fullhash].css',
             ignoreOrder: false
         })
 
