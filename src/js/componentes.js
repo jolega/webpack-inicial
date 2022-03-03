@@ -1,5 +1,5 @@
 
-
+import '../css/componentes.css'
 
 
 export const saludar = (nombre) => {
@@ -7,7 +7,7 @@ export const saludar = (nombre) => {
     console.log('Creado Etiqueta h1');
     
     const h1= document.createElement('h1');
-    h1.innerText = `Hola, ${nombre}`;
+    h1.innerText = `Hola, ${nombre} !!!`;
 
     document.body.append(h1);
 
