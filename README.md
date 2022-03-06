@@ -13,7 +13,8 @@ Webpack- site	https://webpack.js.org/
 Webpack - css 	https://webpack.js.org/loaders/css-loader/
 Webpack- style	https://webpack.js.org/loaders/style-loader/
 Webpack - mini	https://webpack.js.org/plugins/mini-css-extract-plugin/
-
+Webpack - file	https://v4.webpack.js.org/loaders/file-loader/
+Webpack - copy webpack	https://webpack.js.org/plugins/copy-webpack-plugin/
 
 # ejecucion 
 
