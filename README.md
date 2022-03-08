@@ -17,6 +17,8 @@ Webpack - file	https://v4.webpack.js.org/loaders/file-loader/
 Webpack - copy webpack	https://webpack.js.org/plugins/copy-webpack-plugin/
 
 # ejecucion 
-
-    "build": "webpack --config webpack.config.js", npm run build 
-    "start": "webpack serve --config webpack.config.js --open --port=8080"  npm run start  or npm start
+```
+    "build": "webpack --config webpack.prod.js",
+    "build:dev": "webpack --config webpack.config.js",
+    "start": "webpack serve --config webpack.config.js --open --port=8080"
+```
